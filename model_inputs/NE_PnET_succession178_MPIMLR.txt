@@ -1,0 +1,14 @@
+LandisData "PnET-Succession"
+PnET-Succession  	Value 
+Timestep 5 
+StartYear 2010 
+SeedingAlgorithm  WardSeedDispersal 
+Latitude  44 
+PNEToutputsites "Y:/LANDIS_INPUTS/output_extensions/zone4PNEToutputsites.txt" 
+InitialCommunities     "Y:/LANDIS_INPUTS/eco_spp_inc/NE_init_comm11_17_2016_full_age.txt"  
+InitialCommunitiesMap   "Y:/LANDIS_INPUTS/input_rasters/NE_250_init_comm11_17_2016B.img" 
+PnETSpeciesParameters  "Y:/LANDIS_INPUTS/pnet_succession/pnet_species_generic_parameters/PNET_SpeciesParameters4_2016.txt"  
+EcoregionParameters  "Y:/LANDIS_INPUTS/pnet_succession/pnet_ecoregion_parameters/JUNE2016_MPIMLR_rcp85_pnet_zone4_EcoregionParameters.txt"
+AgeOnlyDisturbances   "Y:/LANDIS_INPUTS/disturbance/pnet_AgeOnlyDisturbances.txt" 
+PnETGenericParameters "Y:/LANDIS_INPUTS/pnet_succession/pnet_species_generic_parameters/GenericPnETSpeciesParameters4_2016.txt" 
+
